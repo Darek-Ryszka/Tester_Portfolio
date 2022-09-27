@@ -58,7 +58,7 @@
 * [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
 
-## YouTube chanel's:
+## YouTube channel's:
  - [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
  - [Testowanie Oprogramowania](https://www.youtube.com/c/Micha%C5%82Foksa/videos)
  - [Testuj.pl](https://www.youtube.com/c/testujplcommunity)
