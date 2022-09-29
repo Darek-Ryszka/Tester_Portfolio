@@ -8,6 +8,7 @@
   - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
   - [Jira](https://www.atlassian.com/software/jira0), 
   - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
+  - [Postman](https://www.postman.com/) - Postman is an API platform for building and using APIs
   - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool
   - [PicPick](https://picpick.app/pl/) - A full-featured screen capture tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard and more.  
   - [ZAP](https://www.zaproxy.org/) - WEB App scaner
