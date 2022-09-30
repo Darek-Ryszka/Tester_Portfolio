@@ -5,12 +5,12 @@
 ## Tools
   - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
-  - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
-  - [Jira](https://www.atlassian.com/software/jira0), 
+  - [GIT](https://git-scm.com/) - Version control system
+  - [Jira](https://www.atlassian.com/software/jira0) - Bug tracker 
   - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
   - [Postman](https://www.postman.com/) - Postman is an API platform for building and using APIs
   - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool
-  - [PicPick](https://picpick.app/pl/) - A full-featured screen capture tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard and more.  
+  - [PicPick](https://picpick.app/pl/) - A full-featured screen capture tool 
   - [ZAP](https://www.zaproxy.org/) - WEB App scaner
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [bpmn.io](https://bpmn.io) - Simple web-based tooling for BPMN, DMN and CMMN 
