@@ -69,8 +69,10 @@
   - [GitHub](https://github.com/Darek-Ryszka) - My projects and solved tasks.
   
 ## My bugs reports
-  - [Raport 1](https://docs.google.com/document/d/1TcoRrBSfUyhmcPk_NQ_J4unStH9hEM01/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
-  - [Raport 2](https://docs.google.com/document/d/1sbMgKbfm6YFz6ur-oeuVAcNySUK6Ou3n/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
+  - [Raport 1](https://docs.google.com/document/d/1voBjK4L6CYNuc5rIvpdiKw0TkyBjsN9M/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
+  - [Raport 2](https://docs.google.com/document/d/11fSUjrz-KfGykQ7vFSrsjclRgT7zxgKr/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
+  - [Raport 3](https://drive.google.com/drive/folders/1sErLcdqRQT0c4L72F6VwjrHtF3vdPDnO?usp=sharing)
+  - [Raport 4](https://drive.google.com/drive/folders/1_6KjzDoGPbbq3DB5Klwro60ruGiyXUfR?usp=sharing)
 
 ## My test cases
   - [Test plan](https://drive.google.com/file/d/1YSKj6vqgoAZ30BdqwcpyDA1vMN1nmsoZ/view?usp=sharing)
