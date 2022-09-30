@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/dariusz-ryszka-36a631227/)
 
 ## Tools
-  - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
+  - [Visual Studio Code](https://code.visualstudio.com) - Code editor  
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GIT](https://git-scm.com/) - Version control system
   - [Jira](https://www.atlassian.com/software/jira0) - Bug tracker 
