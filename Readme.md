@@ -17,13 +17,13 @@
 
 ## Tech skills
   - Python
-  - Django basics
-  - HTML/CSS basics
-  - SQL
-  - PostgreSQL
+  - Django (basics)
+  - HTML/CSS (basics)
+  - SQL/PostgreSQL
   - GIT    
   - SCRUM
   - Creating test cases
+  - Creating test plans
   - Reporting bugs      
   - DevTools  
   
@@ -39,12 +39,13 @@
 
 ## Courses
   - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-  - [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/) 
+  - [Kurs ogólno informatyczny "StudiujęIT"](https://www.studiuje.it/)
+  - [Python dla początkujących "PyStart"](https://edu.dokodu.dev/product/pystart-pl/) 
   - [Python dla średnio zaawansowanych](https://www.udemy.com/course/python-dla-srednio-zaawansowanych/)
-  - [PyStart](https://edu.dokodu.dev/product/pystart-pl/)
-  - [PyWWW](https://pywww.pl/)
-  - [StudiujęIT](https://www.studiuje.it/)
+  - [Python Django "PyWWW"](https://pywww.pl/)
+  - [SQL/PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/)
   - [Git](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/)  
+  - [Docker](https://www.udemy.com/course/docker-od-podstaw-dla-programistow-i-nie-tylko/)
 
 ## Technical Books read
 * Beata Błaszczyk - [Englisz 4 IT](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginv.htm#format/d) - in progress
@@ -64,13 +65,12 @@
  - [Testowanie Oprogramowania](https://www.youtube.com/c/Micha%C5%82Foksa/videos)
  - [Testuj.pl](https://www.youtube.com/c/testujplcommunity)
 
-
 ## Skills training
   - [GitHub](https://github.com/Darek-Ryszka) - My projects and solved tasks.
   
-## My bug reports
+## My bugs reports
   - [Raport 1](https://docs.google.com/document/d/1TcoRrBSfUyhmcPk_NQ_J4unStH9hEM01/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
   - [Raport 2](https://docs.google.com/document/d/1sbMgKbfm6YFz6ur-oeuVAcNySUK6Ou3n/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
 
-## My test cases examples nad 
+## My test cases
   - [Test plan](https://drive.google.com/file/d/1YSKj6vqgoAZ30BdqwcpyDA1vMN1nmsoZ/view?usp=sharing)
