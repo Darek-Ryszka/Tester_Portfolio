@@ -3,7 +3,8 @@
 [LinkedIn](https://www.linkedin.com/in/dariusz-ryszka-36a631227/)
 
 ## Tools
-  - [Visual Studio Code](https://code.visualstudio.com) - Code editor  
+  - [Visual Studio Code](https://code.visualstudio.com) - Code editor
+  - [Visual Studio](https://visualstudio.microsoft.com/pl/) - Integrated development environment
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GIT](https://git-scm.com/) - Version control system
   - [Jira](https://www.atlassian.com/software/jira0) - Bug tracker 
@@ -74,5 +75,5 @@
   - [Raport 3](https://drive.google.com/drive/folders/1sErLcdqRQT0c4L72F6VwjrHtF3vdPDnO?usp=sharing)
   - [Raport 4](https://drive.google.com/drive/folders/1_6KjzDoGPbbq3DB5Klwro60ruGiyXUfR?usp=sharing)
 
-## My test cases
+## My test plans
   - [Test plan](https://drive.google.com/file/d/1YSKj6vqgoAZ30BdqwcpyDA1vMN1nmsoZ/view?usp=sharing)
