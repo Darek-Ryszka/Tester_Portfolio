@@ -52,7 +52,7 @@
 * Beata Błaszczyk - [Englisz 4 IT](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginv.htm#format/d) - in progress
 * Radosław Smilgin - [Zawód tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html) - in progress
 * Adam Roman, Lucjan Stapp - [Certyfikowany tester ISTQB](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/e) - in progress
-* Marcin Szeliga - [Certyfikowany tester. Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/) - in progress
+* Marcin Szeliga - [Certyfikowany tester. Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/) - Done
 
 ## Blogs read
 
