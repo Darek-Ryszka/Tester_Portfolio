@@ -78,6 +78,7 @@
 ## My test plans
   - [Scenario 1](https://docs.google.com/spreadsheets/d/1tEjmrh0B9tWWPydtcr7xqo616EjM7cfU/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
   - [Scenario 2](https://docs.google.com/spreadsheets/d/1Fuapm98qAXL__Bvqw6zY6Tysoa_sblMW/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
+  - [Scenario 3](https://docs.google.com/spreadsheets/d/1NMSW60iLaTV6-QCxseu5eJX_x94tN-6Z/edit?usp=sharing&ouid=102493139943893227490&rtpof=true&sd=true)
 
 ## My test plans
   - [Test plan 1](https://drive.google.com/file/d/1YSKj6vqgoAZ30BdqwcpyDA1vMN1nmsoZ/view?usp=sharing)
