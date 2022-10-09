@@ -1,6 +1,10 @@
 # Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/dariusz-ryszka-36a631227/)
+## About me
+
+Hello, my name is Darek, and I am a computer science student from Poland. I started learning programming in 2019. At the beginning, I was programming in C++ and one year later, I signed up for college. When I was in my first year, I decided to learn Python. After two finished courses, I decided, I want to be Python Web Developer. Now, I am still learning Python, Django and Flask, and at the end of the summer talked with some friends, and they advised me to try manual testing and then automatic tests in Python.<br>
+Well, now I am learning tester tools such as Jira, Postman, TestLink, and taking the first step in Selenium. I think it will be a good way to become a Web Developer. When I am not programming/learning, I spend free time with my dog, training cycling, and sometime walking in the mountains.
+- [LinkedIn](https://www.linkedin.com/in/dariusz-ryszka-36a631227/)
 
 ## Tools
   - [Visual Studio Code](https://code.visualstudio.com) - Code editor
